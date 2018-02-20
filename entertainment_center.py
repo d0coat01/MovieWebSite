@@ -20,4 +20,6 @@ lotr_two_towers = media.Movie("Lord of the Rings: The Two Towers",
                               "https://www.youtube.com/watch?v=gXC-jJhFaUI")
 
 movies = [toy_story, predator, conan, lotr_two_towers]
+
+#pass movies list to open_movies_page for html page generation.
 fresh_tomatoes.open_movies_page(movies)

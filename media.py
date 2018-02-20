@@ -1,5 +1,5 @@
 class Video:
-
+    """General purpose video class"""
     def __init__(self, title):
         self.title = title
 
