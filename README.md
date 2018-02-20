@@ -14,5 +14,8 @@ Make sure you have a version of Python 2 installed.
 - The list of `Movie` instances is stored in `entertainment_center.py`
 - `fresh_tomatoes.open_movies_page(movies)` is found in `entertainment_center.py` and is responsible for generating the html page of movie trailers. 
 
+## Sources
+I built this code off of Udacity's [ud036_StarterCode](https://github.com/udacity/ud036_StarterCode) repository.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) License 2018. This code may be shared, copied, and changed freely.
